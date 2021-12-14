@@ -1,2 +1,2 @@
 # TransLab.NLP
-Projetos e estudos relacionados a NLP
+Projects and studies related to NLP
